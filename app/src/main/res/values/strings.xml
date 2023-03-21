@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">BaseAppJetpackComposeAndroidKotlinDemo</string>
+
+    <string name="characters_screen_title">首頁</string>
+    <string name="character_detail_screen_title">Detail</string>
+    <string name="character_detail_card_name">Name</string>
+    <string name="character_detail_card_species">Species</string>
+    <string name="character_detail_card_gender">Gender</string>
+    <string name="character_detail_card_last_know_location">Last Know Location</string>
+    <string name="character_detail_card_location">Location</string>
+
+    <string name="episodes_screen_title">門市據點</string>
+
+    <string name="favorite_screen_title">Favorites</string>
+    <string name="favorite_screen_empty_list_text">You haven\'t added\na character to your favorites yet</string>
+
+    <!--- Settings -->
+    <string name="settings_screen_title">會員專區</string>
+    <string name="settings_dark_theme">Dark Theme</string>
+    <string name="settings_screen_app_version_title">App Version</string>
+
+    <!--- Search -->
+    <string name="search_screen_title">最新消息</string>
+    <string name="search_modal_title">Filter</string>
+    <string name="search_modal_status_title">Status</string>
+    <string name="search_modal_gender_title">Gender</string>
+    <string name="search_modal_button_text">Apply</string>
+</resources>

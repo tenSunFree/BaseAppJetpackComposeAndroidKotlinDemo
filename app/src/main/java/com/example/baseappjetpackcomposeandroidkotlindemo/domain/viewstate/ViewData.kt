@@ -1,0 +1,5 @@
+package com.example.baseappjetpackcomposeandroidkotlindemo.domain.viewstate
+
+interface IViewState
+
+interface IViewEvent
